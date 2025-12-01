@@ -1,6 +1,6 @@
 Housing Price Prediction – Machine Learning Project
 
-This project predicts housing prices in California using machine learning techniques applied to the California Housing dataset. The workflow covers data preprocessing, feature engineering, model training, evaluation, and a custom prediction function that estimates prices based on user inputs.
+This project predicts housing prices in California(the easily dataset i could find) using machine learning techniques applied to the California Housing dataset. The workflow covers data preprocessing, feature engineering, model training, evaluation, and a custom prediction function that estimates prices based on user inputs.
 
 Project Contents
 

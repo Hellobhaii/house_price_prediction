@@ -8,8 +8,6 @@ Housing.csv – dataset used for training and testing
 
 house_price_prediction.ipynb – Jupyter Notebook containing the full workflow
 
-README.md – project description
-
 Process Overview
 1. Data Cleaning
 
